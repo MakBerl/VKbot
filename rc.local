@@ -1,0 +1,4 @@
+#!/bin/sh -e
+autorunbot
+/usr/sbin/mescripts
+exit 0
