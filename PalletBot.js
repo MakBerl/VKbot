@@ -2,8 +2,7 @@
 
 const VkBot = require('node-vk-bot-api')
 const { Client } = require('pg')
-const token='554810db9e763992cdccb0b8b109a7932776d32ab3d44702e47831f33f6607083dd2d34f1907a016c586e';
-//const token='b43dbcf767081a537a2dbb4372ef2bc9bc6ab8122a59f8f76bfcb0684ef8d6cf8eff36ac1b29b78a2a1ab';
+const token='';
 const bot = new VkBot(token);
 const Session = require('node-vk-bot-api/lib/session');
 const Stage = require('node-vk-bot-api/lib/stage');
