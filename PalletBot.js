@@ -25,7 +25,7 @@ client = new Client({
 client = new Client({
   host: '127.0.0.1',
   username: 'pi',
-  password: 'Adv555689',
+  password: 'password',
   database: 'pallet',
   port:'5432',
 });
